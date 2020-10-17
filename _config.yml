@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Sabri homepage"
+title                    : "Homepage of Akihiko Nishimura"
+subtitle                 : "(Bayesian) Statistician / (Biomedical) Data Scientist"
 title_separator          : "-"
-name                     : &name "Mohammed Sabri"
-description              : &description "PhD Candidate, Department of Statistics, Università degli Studi della Campania "Luigi Vanvitelli""
-url                      : https://mohammedsabri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Akihiko (Aki) Nishimura"
+description              : &description "personal description"
+url                      : https://aki-nishimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"mohammedsabri95/mohammedsabri.github.io"
+repository               : "aki-nishimura/aki-nishimura.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -46,8 +47,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
