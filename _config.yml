@@ -79,14 +79,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammed Sabri"
-  avatar           : "profile.jpg"
-  bio              : "PhD Candidate, Department of Statistics, degli Studi della Campania "Luigi Vanvitelli" University"
-  location         : "Casablanca, Morocco"
+  name             : "Akihiko (Aki) Nishimura"
+  avatar           : "aki_nishimura.jpg"
+  bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
+  email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  location         : "Baltimore, MD"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mohammed.sabri@usmba.ac.ma"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,25 +96,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mohammedsabri95"
+  github           : "aki-nishimura"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mohammedsabri95/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-6932-2513"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mohammesabri95"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  twitter          : "AkiWestvillage"
 
 
 # Reading Files
