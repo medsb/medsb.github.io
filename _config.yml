@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Akihiko Nishimura"
+title                    : "Homepage of Mohammed Sabri"
 subtitle                 : "(Bayesian) Statistician / (Biomedical) Data Scientist"
 title_separator          : "-"
-name                     : &name "Akihiko (Aki) Nishimura"
+name                     : &name "Mohammed Sabri"
 description              : &description "personal description"
-url                      : https://aki-nishimura.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mohammedsabri95.github.io/mohammedsabri.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aki-nishimura/aki-nishimura.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
