@@ -83,7 +83,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
   email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
-  location         : "Baltimore, MD"
+  location         : "Casablnca, Morocco"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
@@ -96,25 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aki-nishimura"
+  github           : "mohammedsabri95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0002-6932-2513"
+  linkedin         : "https://www.linkedin.com/in/mohammedsabri95/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  twitter          : "AkiWestvillage"
+  twitter          : "mohammesabri95"
 
 
 # Reading Files
