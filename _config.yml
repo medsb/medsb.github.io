@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Homepage of Mohammed Sabri"
-subtitle                 : "(Bayesian) Statistician / (Biomedical) Data Scientist"
+subtitle                 : "Ph.d. Candidate | Data Scientist"
 title_separator          : "-"
 name                     : &name "Mohammed Sabri"
 description              : &description "personal description"
@@ -82,11 +82,11 @@ author:
   name             : "Mohammed Sabri"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
-  email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
+  email            : "mohammed.sabri@usmba.ac.ma" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Casablnca, Morocco"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
+ # googlescholar    : "https://scholar.google.com/citations?user=yWiV5SwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
