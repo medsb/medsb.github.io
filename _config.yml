@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammed Sabri"
-  avatar           : "aki_nishimura.jpg"
+  avatar           : "profile.png"
   bio              : "Assistant Professor of Biostatistics at Johns Hopkins University"
   email            : "&#x61;&#x6E;&#x69;&#x73;&#x68;&#x69;&#x6D;&#x75;&#x72;&#x61;&#x40;&#x6A;&#x68;&#x75;&#x2E;&#x65;&#x64;&#x75;" # HTML entity encoding --- use https://mothereff.in/html-entities for example.
   location         : "Baltimore, MD"
