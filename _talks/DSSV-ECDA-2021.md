@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/DSSV-ECDA 2021
 venue: "Erasmus University"
-date: July 7 – July 9, 2021
+date: July 07, 2021
 location: "Rotterdam, Netherlands"
 ---
 
